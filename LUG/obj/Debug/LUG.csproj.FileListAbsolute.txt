@@ -1,0 +1,6 @@
+C:\POO\LUG\LUG\bin\Debug\LUG.dll
+C:\POO\LUG\LUG\bin\Debug\LUG.pdb
+C:\POO\LUG\LUG\obj\Debug\LUG.csproj.AssemblyReference.cache
+C:\POO\LUG\LUG\obj\Debug\LUG.csproj.CoreCompileInputs.cache
+C:\POO\LUG\LUG\obj\Debug\LUG.dll
+C:\POO\LUG\LUG\obj\Debug\LUG.pdb
